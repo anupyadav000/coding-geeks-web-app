@@ -1,0 +1,42 @@
+.navbar{
+  font-size:xx-large
+}
+.collapse{
+  justify-content: flex-end;
+  margin-right: 20px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.navbar-brand>img{
+  width: 14rem;
+  height: 7rem;
+  border: 5px solid #555;
+  border-radius: 20px 20px 20px 20px;
+}
+
+.navbar-brand{
+  margin-left: 20px;
+}
+.top-navbar{
+  background-color: white;
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+  box-shadow: 1px 1px;
+}
+
+.nav-item{
+  padding: 0px 10px;
+}
+.nav-item>a{
+  text-decoration: none;
+}
+
+@media (max-width:700px) {
+  .navbar-brand>img{
+    width: 8rem;
+    height: 5rem;
+  }
+  
+}
