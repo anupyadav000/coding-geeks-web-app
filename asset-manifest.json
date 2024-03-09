@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/coding-geeks-web-app/static/css/main.e6c94127.css",
+    "main.js": "/coding-geeks-web-app/static/js/main.5379f770.js",
+    "static/media/profile.jpg": "/coding-geeks-web-app/static/media/profile.3741cc6bbb25f74b371d.jpg",
+    "static/media/programmer.jpg": "/coding-geeks-web-app/static/media/programmer.14f91e134d3a14baf0fb.jpg",
+    "static/media/logo1.svg": "/coding-geeks-web-app/static/media/logo1.e834e2d2d3e63c2d83cdb5443f0332f0.svg",
+    "static/media/intro.png": "/coding-geeks-web-app/static/media/intro.b17cc02d7510f6d1a859.png",
+    "static/media/introCourseLeft.png": "/coding-geeks-web-app/static/media/introCourseLeft.b5903de047ef6d04d3f4.png",
+    "static/media/logo3.svg": "/coding-geeks-web-app/static/media/logo3.1c2ae8b9adfc775ef3eded4dcd1891a5.svg",
+    "static/media/points1.png": "/coding-geeks-web-app/static/media/points1.26cccb369712e7f5cca7.png",
+    "static/media/logo.png": "/coding-geeks-web-app/static/media/logo.c1dd0d7084ae68885d27.png",
+    "static/media/points4.png": "/coding-geeks-web-app/static/media/points4.e8468209dcea43e37176.png",
+    "static/media/points3.png": "/coding-geeks-web-app/static/media/points3.7e5f25bfddb32e8a9385.png",
+    "static/media/points2.png": "/coding-geeks-web-app/static/media/points2.0326cea23986f05ad79f.png",
+    "static/media/logo4.png": "/coding-geeks-web-app/static/media/logo4.6544c45b94d90017639b.png",
+    "static/media/points5.png": "/coding-geeks-web-app/static/media/points5.f0f33f3c2b29f941b636.png",
+    "static/media/logo5.svg": "/coding-geeks-web-app/static/media/logo5.ddb161724587c05650c66f2789c761aa.svg",
+    "index.html": "/coding-geeks-web-app/index.html",
+    "static/media/logo2.svg": "/coding-geeks-web-app/static/media/logo2.b4e57c5818bba12da986fe91a3f7ccb5.svg",
+    "main.e6c94127.css.map": "/coding-geeks-web-app/static/css/main.e6c94127.css.map",
+    "main.5379f770.js.map": "/coding-geeks-web-app/static/js/main.5379f770.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c94127.css",
+    "static/js/main.5379f770.js"
+  ]
+}
